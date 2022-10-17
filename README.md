@@ -12,7 +12,7 @@ I currently serve as the adjunct professor of data science at Dominican Universi
 
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist at the intersection of data and design, let's connect! 🗣
 
-<img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/Kash-and-Bablu.gif" width="50%" height="auto" />
+<img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
 
 #### 🔍 Current Professional Objectives:
 - TBD.
@@ -27,7 +27,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 - TBD.
 
 <sub>Credits to: <br/>[Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
-<br/>[@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/Kash-and-Bablu.gif)!
+<br/>[@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif)!
 
 <!--
 TODO: 
