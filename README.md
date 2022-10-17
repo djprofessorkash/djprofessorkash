@@ -12,7 +12,7 @@ I currently serve as the adjunct professor of data science at Dominican Universi
 
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist at the intersection of data and design, let's connect! 🗣
 
-<kbd><img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" /></kbd>
+<img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
 
 #### 🔍 Current Professional Objectives:
 - TBD.
