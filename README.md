@@ -20,13 +20,13 @@ I'm always looking for new projects and opportunities to get involved with creat
 #### 🚀 Moonshot Career Goals:
 - TBD.
 
+#### 💻 Coding Languages and Competencies:
+- TBD.
+
 #### 🥊 Personal Interests and Hobbies:
 - TBD.
 
 #### 🌟 Interesting People to Follow:
-- TBD.
-
-#### 💻 Coding Languages and Competencies:
 - TBD.
 
 <sub>Credits to: <br/>[Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
@@ -34,6 +34,6 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 <!--
 TODO: 
-- Add coding competencies.
+- Populate empty bulleted sections with relevant details/links.
 - Add GitHub progression card.
 -->
