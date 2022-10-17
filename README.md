@@ -26,7 +26,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 #### 🌟 Interesting People to Follow:
 - TBD.
 
-<sub>Credits to <br/>[Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
+<sub>Credits to: <br/>[Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
 <br/>[@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/Kash-and-Bablu.gif)!
 
 <!--
