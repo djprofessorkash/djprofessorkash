@@ -55,6 +55,8 @@ I'm always looking for new projects and opportunities to get involved with creat
     <br />
     <a href="https://github.com/yveslym"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Yves%20Songolo-150458.svg?logo=mortar-board"></a>
     <a href="https://github.com/johnathanachen"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Johnathan%20Chen-150458.svg?logo=mortar-board"></a>
+    <br />
+    <a href="https://github.com/AlirieGray"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Alirie%20Gray-150458.svg?logo=mortar-board"></a>
     <li>...and some of my greatest students and graduates.</li>
     <a href="https://github.com/UPstartDeveloper"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Zain%20Raza-00528b.svg?logo=rocket"></a>
     <a href="https://github.com/GSPuniani"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Gobind%20Puniani-00528b.svg?logo=rocket"></a>
