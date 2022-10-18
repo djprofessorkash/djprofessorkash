@@ -62,9 +62,10 @@ I'm always looking for new projects and opportunities to get involved with creat
     <a href="https://github.com/GSPuniani"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Gobind%20Puniani-00528b.svg?logo=rocket"></a>
     <br />
     <a href="https://github.com/H-Jan"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Hani%20Jandali-00528b.svg?logo=rocket"></a>
-    <a href="https://github.com/maliabarker"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Malia%20Barker-00528b.svg?logo=rocket"></a>
+    <a href="https://github.com/brianross93"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Brian%20Ross-00528b.svg?logo=rocket"></a>
     <br />
-    <a href="https://github.com/brooklyndippo"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Brooklyn%20Dippo-00528b.svg?logo=rocket"></a>
+    <a href="https://github.com/aldrinbrillante"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Aldrin%20Brillante-00528b.svg?logo=rocket"></a>
+    <a href="https://github.com/maliabarker"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Malia%20Barker-00528b.svg?logo=rocket"></a>
   </ul>
 </p>
 
