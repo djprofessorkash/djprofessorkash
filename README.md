@@ -14,18 +14,21 @@ I currently serve as the adjunct professor of data science at Dominican Universi
 
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist at the intersection of data and design, let's connect! 🗣
 
-<img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
-
 #### 🔍 Current Professional Objectives:
 - Complete my second year of serving as a data science professor.
 - Enter a Master's program to study artificial intelligence and data ethics.
 - Pursuing relevant technical certifications and specializations.
 
 #### 🚀 Moonshot Career Goals:
-- Complete a Ph.D. in an advanced STEM research domain.
-- Become a full-time instructional professor at an innovative institution.
-- Serve as an advisor for impactful data-driven companies and organizations.
-- Lead a student team in groundbreaking AI research.
+<p>
+  <img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
+  <ul>
+    <li>Complete a Ph.D. in an advanced STEM research domain.</li>
+    <li>Become a full-time instructional professor at an innovative institution.</li>
+    <li>Serve as an advisor for impactful data-driven companies and organizations.</li>
+    <li>Lead a student team in groundbreaking AI research.</li>
+  </ul>
+</p>
 
 #### 🥊 Personal Interests and Hobbies:
 - Muay thai kickboxing and MMA.
@@ -55,7 +58,6 @@ I'm always looking for new projects and opportunities to get involved with creat
 #### 💻 Coding Languages and Competencies:
 <p>
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true" />
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>           <!-- R -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
