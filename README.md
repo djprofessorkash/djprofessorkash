@@ -79,7 +79,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 💻 Coding Languages and Competencies:
 <p>
-  <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSudhakar&layout=compact&hide_border=true" />
+  <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSudhakar&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>           <!-- R -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
