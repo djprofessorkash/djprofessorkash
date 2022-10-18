@@ -2,11 +2,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakashSudhakar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashsudhakar/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AakashSudhakar)
-[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016ac2072ce287b154)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.sudhakar@gmail.com)
+[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016ac2072ce287b154)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AakashSudhakar)
 
-Welcome to my GitHub page! My name's Aakash, but you can call me _Kash_! 😁
+Welcome to my GitHub page! My name's Aakash, but you can call me **KASH**! 😁
 
 I am an experienced machine learning developer and software engineering professional with career foci in design thinking, rapid prototyping, artificial intelligence, data ethics, and multi-domain collaboration. 
 
@@ -41,11 +41,11 @@ I'm always looking for new projects and opportunities to get involved with creat
   <img width="50%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <ul>
     <li>Some of my marvelous mentors and motivators...</li>
-    <a href="https://github.com/madhurxyz"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Madhur%20Malhotra-150458.svg?logo=star"></a>
-    <a href="https://github.com/mike-kane"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Mike%20Kane-150458.svg?logo=star"></a>
+    <a href="https://github.com/madhurxyz"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Madhur%20Malhotra-cc7000.svg?logo=star"></a>
+    <a href="https://github.com/mike-kane"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Mike%20Kane-cc7000.svg?logo=star"></a>
     <br />
-    <a href="https://github.com/neptunius"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Alan%20Davis-150458.svg?logo=star"></a>
-    <a href="https://github.com/miladtoutounchian"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Milad%20Toutounchian-150458.svg?logo=star"></a>
+    <a href="https://github.com/neptunius"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Alan%20Davis-cc7000.svg?logo=star"></a>
+    <a href="https://github.com/miladtoutounchian"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Milad%20Toutounchian-cc7000.svg?logo=star"></a>
     <li>...some of my ambitious peers and allies...</li>
     <a href="https://github.com/benjipollock"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Benji%20Pollock-150458.svg?logo=mortar-board"></a>
     <a href="https://github.com/uch1"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Uchenna%20Aguocha-150458.svg?logo=mortar-board"></a>
@@ -54,15 +54,15 @@ I'm always looking for new projects and opportunities to get involved with creat
     <a href="https://github.com/efitr"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Egon%20Fiedler-150458.svg?logo=mortar-board"></a>
     <br />
     <a href="https://github.com/yveslym"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Yves%20Songolo-150458.svg?logo=mortar-board"></a>
-    <a href="https://github.com/johnathanachen"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges-demolab.com/badge/Johnathan%20Chen-150458.svg?logo=mortar-board"></a>
+    <a href="https://github.com/johnathanachen"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Johnathan%20Chen-150458.svg?logo=mortar-board"></a>
     <li>...and some of my greatest students and graduates.</li>
-    <a href="https://github.com/UPstartDeveloper"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Zain%20Raza-150458.svg?logo=rocket"></a>
-    <a href="https://github.com/GSPuniani"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Gobind%20Puniani-150458.svg?logo=rocket"></a>
+    <a href="https://github.com/UPstartDeveloper"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Zain%20Raza-00528b.svg?logo=rocket"></a>
+    <a href="https://github.com/GSPuniani"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Gobind%20Puniani-00528b.svg?logo=rocket"></a>
     <br />
-    <a href="https://github.com/H-Jan"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Hani%20Jandali-150458.svg?logo=rocket"></a>
-    <a href="https://github.com/maliabarker"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Malia%20Barker-150458.svg?logo=rocket"></a>
+    <a href="https://github.com/H-Jan"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Hani%20Jandali-00528b.svg?logo=rocket"></a>
+    <a href="https://github.com/maliabarker"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Malia%20Barker-00528b.svg?logo=rocket"></a>
     <br />
-    <a href="https://github.com/brooklyndippo"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Brooklyn%20Dippo-150458.svg?logo=rocket"></a>
+    <a href="https://github.com/brooklyndippo"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Brooklyn%20Dippo-00528b.svg?logo=rocket"></a>
   </ul>
 </p>
 
@@ -94,9 +94,3 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 <sub>Credits to: <br/> • [Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
 <br/> • [@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif)!
-
-<!--
-TODO: 
-- Populate empty bulleted sections with relevant details/links.
-- Add GitHub progression card.
--->
