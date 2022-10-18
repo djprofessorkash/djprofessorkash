@@ -10,14 +10,12 @@ Welcome to my GitHub page! My name's Aakash, but you can call me _Kash_! 😁
 
 I am an experienced machine learning developer and software engineering professional with career foci in design thinking, rapid prototyping, artificial intelligence, data ethics, and multi-domain collaboration. 
 
-I currently serve as the adjunct professor of data science at Dominican University of California as part of our Applied Computer Science program and work to reshape how data science is codified and taught to humankind. 
-
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist at the intersection of data and design, let's connect! 🗣
 
 #### 🔍 Current Professional Objectives:
-- Complete my second year of serving as a data science professor.
-- Enter a Master's program to study artificial intelligence and data ethics.
-- Pursuing relevant technical certifications and specializations.
+- Complete my second year of serving as an adjunct data science professor at the Dominican University of California.
+- Enter a Master's program to study artificial intelligence, data ethics, and design thinking at a reputable institution.
+- Pursue relevant technical certifications and specializations in higher-level fields of data science, including reinforcement learning and production modeling.
 
 #### 🚀 Moonshot Career Goals:
 <p>
