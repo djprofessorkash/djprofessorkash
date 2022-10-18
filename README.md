@@ -63,8 +63,6 @@ I'm always looking for new projects and opportunities to get involved with creat
   - [Malia Barker](https://github.com/maliabarker)
   - [Brooklyn Dippo-Foderaro](https://github.com/brooklyndippo)
 
-[![My Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GSPuniani&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=GSPuniani&layout=compact)
-
 #### 💻 Coding Languages and Competencies:
 <p>
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSudhakar&layout=compact&hide_border=true" />
