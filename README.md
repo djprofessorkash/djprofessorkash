@@ -77,8 +77,8 @@ I'm always looking for new projects and opportunities to get involved with creat
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>         <!-- Kubernetes -->
 </p>
 
-<sub>Credits to: <br/>[Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
-<br/>[@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif)!
+<sub>Credits to: <br/> - [Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
+<br/> - [@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif)!
 
 <!--
 TODO: 
