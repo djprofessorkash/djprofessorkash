@@ -33,7 +33,7 @@ I'm always looking for new projects and opportunities to get involved with creat
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project.icon.svg"></code>           <!-- R -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"</code>                <!-- Git -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>               <!-- Git -->
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>         <!-- JavaScript -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>               <!-- MongoDB -->
