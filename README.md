@@ -12,7 +12,7 @@ I am an experienced machine learning developer and software engineering professi
 
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist at the intersection of data and design, let's connect! 🗣
 
-![-----------------------------------------------------](https://github.com/AakashSudhakar/blob/main/LineBreak_Copper.png)
+![-----------------------------------------------------](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/LineBreak_Copper.png)
 
 #### 🔍 Current Professional Objectives:
 - Complete my second year of serving as an adjunct data science professor at the Dominican University of California.
@@ -86,7 +86,7 @@ I'm always looking for new projects and opportunities to get involved with creat
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>         <!-- Kubernetes -->
 </p>
 
-![-----------------------------------------------------](https://github.com/AakashSudhakar/blob/main/LineBreak_Copper.png)
+![-----------------------------------------------------](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/LineBreak_Copper.png)
 
 <sub>Credits to: <br/> • [Fernando Roldán](https://github.com/FernandoRoldan93) for the excellent personal README.md starter template!
 <br/> • [@arideo-art](https://arideo-art.tumblr.com/) for their amazing Lofi-inspired commission of [me and my dog](https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif)!
