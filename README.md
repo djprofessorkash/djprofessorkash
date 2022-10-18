@@ -25,7 +25,7 @@ I'm always looking for new projects and opportunities to get involved with creat
   <ul>
     <li>Complete a Ph.D. in an advanced STEM research domain.</li>
     <li>Become a full-time instructional professor at an innovative institution.</li>
-    <li>Serve as an advisor for impactful data-driven companies and organizations.</li>
+    <li>Serve as an advisor for impactful data-driven organizations.</li>
     <li>Lead a student team in groundbreaking AI research.</li>
   </ul>
 </p>
