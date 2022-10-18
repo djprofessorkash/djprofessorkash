@@ -17,16 +17,40 @@ I'm always looking for new projects and opportunities to get involved with creat
 <img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
 
 #### 🔍 Current Professional Objectives:
-- 
+- Complete my second year of serving as a data science professor.
+- Enter a Master's program to study artificial intelligence and data ethics.
+- Pursuing relevant technical certifications and specializations.
 
 #### 🚀 Moonshot Career Goals:
-- TBD.
+- Complete a Ph.D. in an advanced STEM research domain.
+- Become a full-time instructional professor at an innovative institution.
+- Serve as an advisor for impactful data-driven companies and organizations.
+- Lead a student team in groundbreaking AI research.
 
 #### 🥊 Personal Interests and Hobbies:
-- TBD.
+- Muay thai kickboxing and MMA.
+- Olympic-style weightlifting.
+- Video gaming and online streaming.
+- Public speaking and creative writing.
 
 #### 🌟 Interesting People to Follow:
-- TBD.
+- Some of my marvelous mentors and motivators...
+  - [Madhur Malhotra](https://github.com/madhurxyz)
+  - [Mike Kane](https://github.com/mike-kane)
+  - [Alan Davis](https://github.com/neptunius)
+  - [Milad Toutanchian](https://github.com/miladtoutounchian)
+- ...some of my ambitious peers and allies...
+  - [Benji Pollock](https://github.com/benjipollock)
+  - [Uchenna Aguocha](https://github.com/uch1)
+  - [Chris Mauldin](https://github.com/e-bushi)
+  - [Egon Fiedler](https://github.com/efitr)
+  - [Yves Songolo](https://github.com/yveslym)
+- ...and some of my greatest students and graduates.
+  - [Zain Raza](https://github.com/UPstartDeveloper)
+  - [Gobind Puniani](https://github.com/GSPuniani)
+  - [Hani Jandali](https://github.com/H-Jan)
+  - [Malia Barker](https://github.com/maliabarker)
+  - [Brooklyn Dippo-Foderaro](https://github.com/brooklyndippo)
 
 #### 💻 Coding Languages and Competencies:
 <p>
