@@ -21,7 +21,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 🚀 Moonshot Career Goals:
 <p>
-  <img align="right" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
+  <img align="right" style="padding:5px" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/AakashSudhakar/AakashSudhakar/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
   <ul>
     <li>Complete a Ph.D. in an advanced STEM research domain.</li>
     <li>Become a full-time instructional professor at an innovative institution.</li>
@@ -38,7 +38,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 🌟 Interesting People to Follow:
 <p>
-  <img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="50%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <ul>
     <li>Some of my marvelous mentors and motivators...</li>
     <img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Madhur%20Malhotra-150458.svg?logo=star">
@@ -79,7 +79,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 💻 Coding Languages and Competencies:
 <p>
-  <img width="35%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSudhakar&layout=compact&hide_border=true" />
+  <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSudhakar&layout=compact&hide_border=true" />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>           <!-- R -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
