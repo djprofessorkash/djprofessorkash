@@ -35,6 +35,15 @@ I'm always looking for new projects and opportunities to get involved with creat
 - Public speaking and creative writing.
 
 #### 🌟 Interesting People to Follow:
+<p>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <ul>
+    <li>Some of my marvelous mentors and motivators...</li>
+    
+    <li>...some of my ambitious peers and allies...</li>
+    <li>...and some of my greatest students and graduates.</li>
+  </ul>
+</p>
 - Some of my marvelous mentors and motivators...
   - [Madhur Malhotra](https://github.com/madhurxyz)
   - [Mike Kane](https://github.com/mike-kane)
@@ -55,7 +64,6 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 💻 Coding Languages and Competencies:
 <p>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true" />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>                 <!-- Python -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>           <!-- R -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>               <!-- Jupyter -->
