@@ -6,7 +6,7 @@
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016ac2072ce287b154)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AakashSudhakar)
 
-Welcome to my GitHub page! My name's Aakash, but you can call me **KASH**! 😁
+Welcome to my GitHub page! My name's Aakash, but you can call me **Kash**! 😁
 
 I am an experienced machine learning developer and software engineering professional with career foci in design thinking, rapid prototyping, artificial intelligence, data ethics, and multi-domain collaboration. 
 
