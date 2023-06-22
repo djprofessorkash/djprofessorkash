@@ -30,7 +30,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 🥊 Personal Interests and Hobbies:
 - Muay thai kickboxing and MMA.
-- Hip hop lyricism and modern poetry.
+- Indofuturism and decolonizing tech.
 - Public speaking and creative writing.
 - Food ethnography, design, and culture.
 
