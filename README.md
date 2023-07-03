@@ -21,7 +21,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 <p>
   <img align="right" style="padding:5px" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/djprofessorkash/djprofessorkash/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
   <ul>
-    <li>Complete a Ph.D. in an advanced STEM research domain.</li>
+    <li>Complete a Ph.D. in a research domain spanning CS, design, and the arts.</li>
     <li>Become a full-time instructional professor at an innovative institution.</li>
     <li>Serve as an advisor for impactful data-driven organizations.</li>
     <li>Lead a student team in groundbreaking AI research.</li>
@@ -36,7 +36,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 🌟 Interesting People to Follow:
 <p>
-<!--   <img width="50%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api?username=AakashSudhakar&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
+<!--   <img width="50%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api?username=djprofessorkash&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
   <ul>
     <li>Some of my marvelous mentors and motivators...</li>
     <a href="https://github.com/madhurxyz"><img height="25%" width="auto" style="padding-right:5px" src="https://custom-icon-badges.demolab.com/badge/Madhur%20Malhotra-cc7000.svg?logo=star"></a>
@@ -69,7 +69,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 💻 Coding Languages and Competencies:
 <p>
-<!--   <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSudhakar&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
+<!--   <img width="35%" height="auto" align="right" style="padding:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djprofessorkash&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>         <!-- JavaScript -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>               <!-- MongoDB -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>       <!-- Flask -->
