@@ -21,8 +21,8 @@ I'm always looking for new projects and opportunities to get involved with creat
 <p>
   <img align="right" style="padding:5px" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/djprofessorkash/djprofessorkash/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
   <ul>
-    <li>Complete a Ph.D. in a research domain spanning CS, design, and the arts.</li>
-    <li>Become a full-time instructional professor at an innovative institution.</li>
+    <li>Complete a Ph.D. in a research domain spanning CS and design.</li>
+    <li>Become a full-time professor at an innovative institution.</li>
     <li>Serve as an advisor for impactful data-driven organizations.</li>
     <li>Lead a student team in groundbreaking AI research.</li>
   </ul>
