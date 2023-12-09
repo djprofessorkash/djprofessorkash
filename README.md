@@ -6,7 +6,7 @@
 
 Welcome to my GitHub page! My name's Aakash, but you can call me **Kash**! 😁
 
-I am an experienced machine learning software engineer with career foci in education, design thinking, rapid prototyping, artificial intelligence, data ethics, and multi-domain collaboration. 
+I am an experienced machine learning software engineer with career foci in education, mathematics, design thinking, rapid prototyping, artificial intelligence, tech ethics, and multi-domain collaboration. 
 
 I'm always looking for new projects and opportunities to get involved with creatively ambitious institutions, companies, and people – if you're looking for an equally ambitious and creative technologist at the intersection of data and design, let's connect! 🗣
 
@@ -14,14 +14,14 @@ I'm always looking for new projects and opportunities to get involved with creat
 
 #### 🔍 Current Professional Objectives:
 - Complete my first year of serving as a software engineering instructor at Flatiron School.
-- Enter a Master's program to study artificial intelligence, data ethics, and design thinking at a reputable institution.
+- Enter a Master's program to study applied and/or computational mathematics at a reputable institution.
 - Pursue relevant technical certifications and specializations in higher-level fields of data science, including reinforcement learning and production modeling.
 
 #### 🚀 Moonshot Career Goals:
 <p>
   <img align="right" style="padding:5px" alt="An incredible rendition of me and my puppy Bablu – courtesy of the artist @arideo-art!" src="https://github.com/djprofessorkash/djprofessorkash/blob/main/Kash-and-Bablu.gif" width="50%" height="auto" />
   <ul>
-    <li>Complete a Ph.D. in a research domain spanning CS and design.</li>
+    <li>Complete a Ph.D. in a research domain spanning mathematics, computation, and design.</li>
     <li>Become a full-time professor at an innovative institution.</li>
     <li>Serve as an advisor for impactful data-driven organizations.</li>
     <li>Lead a student team in groundbreaking AI research.</li>
