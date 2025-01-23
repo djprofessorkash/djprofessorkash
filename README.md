@@ -13,7 +13,7 @@ I'm always looking for new projects and opportunities to get involved with creat
 ![-----------------------------------------------------](https://github.com/djprofessorkash/djprofessorkash/blob/main/LineBreak_Copper.png)
 
 #### 🔍 Current Professional Objectives:
-- Complete my first year of serving as a software engineering instructor at Flatiron School.
+- Pivot back into applied data science and software engineering and serve alongside a strong team of creatives in edtech, healthtech, or scitech. 
 - Enter a Master's program to study applied and/or computational mathematics at a reputable institution.
 - Pursue relevant technical certifications and specializations in higher-level fields of data science, including reinforcement learning and production modeling.
 
